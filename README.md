@@ -5,8 +5,11 @@ Calculator Project A simple and interactive calculator application built using J
 #Features:
 
 ✅ User-friendly interface
+
 ✅ Supports basic arithmetic operations (+, -, ×, ÷)
+
 ✅ Responsive design for a better user experience
+
 ✅ Java-powered logic for accurate calculations
 
 #Tech Stack:
